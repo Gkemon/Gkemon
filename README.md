@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Gk Mohammad Emon</h1>
 <h4 align="left">I'm 5 years experienced native android developer also working on flutter development recently using Java, Kotlin, and Dart. Also has good knowledge of C and C++.Built SAAS-based mobile solutions for remote field operations in Sales and Distribution, Construction Monitoring, and Agro-business that increased 200% productivity in some reputed organisations like BRAC, UNDP, NKG, KFW, etc. Created the "First-class management app for teachers in Bangla" named "Hazira Khata" which has already reached a 100k+ download milestone.Engages open source contributions by releasing the Java+Kotlin-based Android library for better developer productivity and achieved 5k+ StackOverflow reputation mostly for the Android community. Love to write testable, maintainable, reusable code with a great futuristic concern. Have adequate experience in working with system apps using Bluetooth, Wifi, and Sensors.</h4>
 
+<a href="https://stardev.io/developers/Gkemon"><img alt="Check out Gkemon's profile on stardev.io" src="https://stardev.io/developers/Gkemon/badge/languages/locality.svg" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkemon&label=Profile%20views&color=0e75b6&style=flat" alt="gkemon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkemon" alt="gkemon" /></a> </p>
