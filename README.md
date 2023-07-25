@@ -4,9 +4,12 @@
 
 ➤ Built SAAS-based mobile solutions for remote field operations in Sales and Distribution, Construction Monitoring, and Agro-business that increased 200% productivity in some reputed organizations like BRAC, UNDP, NKG, KFW, etc.
 
-➤ Have worked on a lot of cross-platform apps based on Flutter mainly for mental health, smart parenting, AR-based navigation, stockmarket,project management,chat, etc resolving complex UI/UX implementation challenges and best-practiced architecture which generate my company's client acquisition in the app market by 45%. 
+➤ Have worked on a lot of cross-platform apps based on Flutter mainly for mental health, smart parenting, AR-based navigation, stockmarket, project management, chat, etc resolving complex UI/UX implementation challenges and best-practiced architecture which generate my company's client acquisition in the app market by 45%. 
 
 ➤ Created the "First-school management app for teachers in Bangla" named "Hazira Khata" which has already reached a 50k+ download milestone and with this single app, most of the school management is done without any PC and active internet. 
+
+➤ Have shown leadership skills by communicating directly with some app's end users about their pain points in simple & non-technical words, collecting proper feedback, analyzing these with all teammates, and leads to implementing some troubleshooting features that reduce almost 45% of client support requests for my support team. These have also sharpened my team management skills as in 9 of these projects, I was the Mobile app team leader and filled the gaps between my team and the product owner.
+
 
 ➤ Engages open source contributions by releasing the Java+Kotlin-based Android library for better developer productivity which achieved more than 235 stars on GitHub and make me 9th of the top open source contributors in Java in Bangladesh. Achieved a 6k+ StackOverflow reputation mainly for the Android & Flutter community.
 
