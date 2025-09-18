@@ -1,19 +1,41 @@
 <h1 align="left">Hi 👋, I'm Gk Mohammad Emon</h1>
 <p align="left">
-➤ I'm 5 years experienced native Android developer also 2 years of experience in Flutter development recently using Java, Kotlin, and Dart. Also has good knowledge of C, Js, and C++. 
+🚀 With 7+ years in mobile development (Android – Java/Kotlin, Flutter – Dart, iOS – Swift/SwiftUI), I’ve built apps that scale from rural classrooms in Bangladesh to enterprise SaaS platforms in Europe. My focus: turning complex ideas into reliable, user-friendly apps that people actually use and love.
 
-➤ Built SAAS-based mobile solutions for remote field operations in Sales and Distribution, Construction Monitoring, and Agro-business that increased 200% productivity in some reputed organizations like BRAC, UNDP, NKG, KFW, etc.
+🔹 Enterprise & NGO Impact
 
-➤ Have worked on a lot of cross-platform apps based on Flutter mainly for mental health, smart parenting, AR-based navigation, stockmarket, project management, chat, etc resolving complex UI/UX implementation challenges and best-practiced architecture which generate my company's client acquisition in the app market by 45%. 
+BRAC Agami (1M+ downloads) → gave microfinance clients 24/7 access to savings & loans.
+BRAC Ekota (100K+ downloads) → community-driven loan referral platform.
+BRAC Liberia field ops (10K+ downloads) → empowering inclusion in low-connectivity regions.
+FieldBuzz SaaS suite → used by UNDP, NKG, KfW for agriculture, sales & monitoring.
 
-➤ Created the "First-school management app for teachers in Bangla" named "Hazira Khata" which has already reached a 50k+ download milestone and with this single app, most of the school management is done without any PC and active internet. 
+🔹 Independent & Startup Wins
 
-➤ Have shown leadership skills by communicating directly with some app's end users about their pain points in simple & non-technical words, collecting proper feedback, analyzing these with all teammates, and leads to implementing some troubleshooting features that reduce almost 45% of client support requests for my support team. These have also sharpened my team management skills as in 9 of these projects, I was the Mobile app team leader and filled the gaps between my team and the product owner.
+Hazira Khata → Bangladesh’s first school management app in Bangla (50K+ downloads).
+TapMeHome → Norway’s first NFC-based asset recovery app, secured by BankID.
+Pretakst → Property inspection platform with offline-first checklists, voice & photo capture.
+DeviceGPT → Device & network analyzer with advanced system insights.
 
+Built AI-powered prototypes for chat, inspection, and finance → leveraging OpenAI/LLMs.
 
-➤ Engages open source contributions by releasing the Java+Kotlin-based Android library for better developer productivity which achieved more than 235 stars on GitHub and make me 9th of the top open source contributors in Java in Bangladesh. Achieved a 6k+ StackOverflow reputation mainly for the Android & Flutter community.
+🔹 Technical Strengths
 
-➤ Have adequate experience working with systems and health-tracking apps using Bluetooth, Wifi, and Sensors. Have some chances to do R&D on sound engineering (mainly frequency generation) in mobile apps.
+Offline-first architectures (Realm, SQLite, Floor DB).
+Enterprise security (JWT, AES-256, BankID, 2FA, GDPR compliance).
+Cross-platform SaaS apps with Flutter, BLoC/Riverpod, Clean Architecture.
+iOS experience with Swift/SwiftUI and integration of AI/LLM workflows.
+CI/CD, Firebase integration, app store compliance.
+
+🔹 Leadership & Community
+
+Led mobile teams on 6+ projects → cut client support tickets by 75%.
+Open-source Android library (235+ GitHub stars) → Top 10 Java OSS contributor in Bangladesh.
+7K+ StackOverflow reputation → helping Android & Flutter devs globally.
+
+✨ What drives me
+Helping people and businesses solve real problems with code + impact. Whether digitizing classrooms, enabling financial inclusion, or bringing AI into daily workflows — I thrive at the intersection of technology and human need.
+
+📌 Always curious, always building. Open to exploring meaningful new app ideas, from NGOs and enterprises to startups with bold ambitions.
 </p>
 
 <a href="https://stardev.io/developers/Gkemon"><img alt="Check out Gkemon's profile on stardev.io" src="https://stardev.io/developers/Gkemon/badge/languages/locality.svg" /></a>
